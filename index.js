@@ -1,3 +1,7 @@
+// Linkedin: https://www.linkedin.com/in/artur-rochel-950361184/
+// Instagram: https://www.instagram.com/artur.rochel/
+// Youtube: https://www.youtube.com/channel/UCCQEBF1dX1027_TxiIoYZwA
+
 turnOn()
 roasting("Pão integral", "mal passado", false)
 
